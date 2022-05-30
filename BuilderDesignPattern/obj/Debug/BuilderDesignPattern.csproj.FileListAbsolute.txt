@@ -1,0 +1,7 @@
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb

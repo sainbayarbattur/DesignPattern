@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.genruntimeconfig.cache

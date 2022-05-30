@@ -1,0 +1,2 @@
+C:\Users\sani\source\repos\DesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache

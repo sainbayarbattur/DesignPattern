@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\bin\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.exe
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\bin\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\bin\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\bin\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\bin\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.dll
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\bin\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.dll
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\FluentInterfaceDesighPattern\obj\Debug\netcoreapp3.1\FluentInterfaceDesighPattern.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe.config
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.pdb

@@ -1,0 +1,2 @@
+C:\Users\sani\source\repos\DesignPattern\FactoryMethodDesign\obj\Debug\FactoryMethodDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\FactoryMethodDesign\obj\Debug\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache

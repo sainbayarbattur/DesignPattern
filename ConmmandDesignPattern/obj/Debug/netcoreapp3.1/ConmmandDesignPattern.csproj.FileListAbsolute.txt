@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\bin\Debug\netcoreapp3.1\ConmmandDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\bin\Debug\netcoreapp3.1\ConmmandDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\bin\Debug\netcoreapp3.1\ConmmandDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\bin\Debug\netcoreapp3.1\ConmmandDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\bin\Debug\netcoreapp3.1\ConmmandDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\bin\Debug\netcoreapp3.1\ConmmandDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\ConmmandDesignPattern\obj\Debug\netcoreapp3.1\ConmmandDesignPattern.genruntimeconfig.cache

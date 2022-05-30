@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.genruntimeconfig.cache

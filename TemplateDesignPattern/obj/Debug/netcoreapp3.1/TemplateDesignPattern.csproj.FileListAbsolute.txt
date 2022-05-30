@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.genruntimeconfig.cache

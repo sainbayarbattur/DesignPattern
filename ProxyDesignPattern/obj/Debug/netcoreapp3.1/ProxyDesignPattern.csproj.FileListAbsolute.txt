@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.genruntimeconfig.cache

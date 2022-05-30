@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp3.1\FlyweightDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp3.1\FlyweightDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp3.1\FlyweightDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp3.1\FlyweightDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp3.1\FlyweightDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp3.1\FlyweightDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp3.1\FlyweightDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\bin\Debug\netcoreapp3.1\InterPreterDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\bin\Debug\netcoreapp3.1\InterPreterDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\bin\Debug\netcoreapp3.1\InterPreterDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\bin\Debug\netcoreapp3.1\InterPreterDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\bin\Debug\netcoreapp3.1\InterPreterDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\bin\Debug\netcoreapp3.1\InterPreterDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\InterPreterDesignPattern\obj\Debug\netcoreapp3.1\InterPreterDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.csprojAssemblyReference.cache
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.genruntimeconfig.cache

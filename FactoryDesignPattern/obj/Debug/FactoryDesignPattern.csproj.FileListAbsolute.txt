@@ -1,0 +1,7 @@
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csprojAssemblyReference.cache

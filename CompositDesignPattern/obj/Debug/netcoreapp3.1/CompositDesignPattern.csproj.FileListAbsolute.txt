@@ -1,0 +1,12 @@
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\bin\Debug\netcoreapp3.1\CompositDesignPattern.exe
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\bin\Debug\netcoreapp3.1\CompositDesignPattern.deps.json
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\bin\Debug\netcoreapp3.1\CompositDesignPattern.runtimeconfig.json
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\bin\Debug\netcoreapp3.1\CompositDesignPattern.runtimeconfig.dev.json
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\bin\Debug\netcoreapp3.1\CompositDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\bin\Debug\netcoreapp3.1\CompositDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\obj\Debug\netcoreapp3.1\CompositDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\obj\Debug\netcoreapp3.1\CompositDesignPattern.AssemblyInfo.cs
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\obj\Debug\netcoreapp3.1\CompositDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\obj\Debug\netcoreapp3.1\CompositDesignPattern.dll
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\obj\Debug\netcoreapp3.1\CompositDesignPattern.pdb
+C:\Users\sani\source\repos\DesignPattern\CompositDesignPattern\obj\Debug\netcoreapp3.1\CompositDesignPattern.genruntimeconfig.cache

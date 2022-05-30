@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AdapterDesignPattern",
+    "\\AdapterDesignPattern\\obj",
+    "\\BridgeDesignPattern\\bin",
+    "\\DayExpression",
+    "\\DependencyInjectionExample",
+    "\\FactoryDesignPattern"
+  ],
+  "SelectedNode": "\\AdapterDesignPattern\\ThirdPartyBillingSystem.cs",
+  "PreviewInSolutionExplorer": false
+}
